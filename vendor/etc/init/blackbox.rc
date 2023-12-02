@@ -1,0 +1,5 @@
+
+service vendor.mi_blackbox /vendor/bin/hw/vendor.xiaomi.hardware.blackbox.service
+    class main
+    user root
+    group system media_rw everybody
