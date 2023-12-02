@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.230804.001 V816.0.5.0.UNKCNXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: vermeer
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.5.0.UNKCNXM
+- tags: release-keys
+- fingerprint: Redmi/vermeer/vermeer:13/TKQ1.221114.001/V816.0.5.0.UNKCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-14-UKQ1.230804.001-V816.0.5.0.UNKCNXM-release-keys
+- repo: redmi_vermeer_dump
